@@ -6,7 +6,7 @@
       
       <div class="col-sm-8 col-sm-offset-2 section-container-spacer">
         <div class="text-center">
-          <h1 class="h2">02 : Portfolyo</h1>
+          <h1 class="h2">03 : Portfolyo</h1>
           <p>Canlı da olan olmayan tüm projelerim burda yer almakta</p>
         </div>
       </div>
