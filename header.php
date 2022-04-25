@@ -1,3 +1,4 @@
+<?php include 'connection/baglan.php';?>
 <!DOCTYPE html>
 <html lang="en">
 
