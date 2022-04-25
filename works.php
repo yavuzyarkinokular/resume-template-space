@@ -20,30 +20,30 @@
                 <div class="row">
                     <div class="col-sm-4">
 
-                      <a href="./work.php" title="" class="black-image-project-hover">
-                        <img src="/assets/images/work02-hover.jpg" alt="" class="img-responsive">
+                      <a href="./work.php" title="" class=" image-project-hover">
+                        <img src="assets/pythonsifre/sifredepola.png" alt="" class="img-responsive">
                       </a>
                       <div class="card-container card-container-lg">
                         <h4>001/006</h4>
-                        <h3>Fringilla sit amet</h3>
+                        <h3>Şifre Kaydetme Programı</h3>
                         <p>Nulla facilisi. Vivamus vestibulum, elit in scelerisque ultricies.</p>
                         <a href="./work.php" title="" class="btn btn-default">Discover</a>
                       </div>
                     </div>
                     <div class="col-sm-4">
-                      <a href="./work.php" title="" class="black-image-project-hover">
-                        <img src="./assets/images/work02-hover.jpg" alt="" class="img-responsive">
+                      <a href="./work.php" title="" class=" image-project-hover">
+                        <img src="assets/pythonsifre/sifreuret.png" alt="" class="img-responsive">
                       </a>
                       <div class="card-container card-container-lg">
                         <h4>002/006</h4>
-                        <h3>Nulla scelerisque</h3>
-                        <p>Proin pharetra metus id iaculis dignissim. In aliquet lorem ut ex ullamcorper.</p>
+                        <h3>Python Şifre Oluşturucu</h3>
+                        <p>Kullanıcıdan alınan bilgilerle şifre üretilip kullanıcıya terminal ekranında gösteriliyor.</p>
                         <a href="./work.php" title="" class="btn btn-default">Discover</a>
                       </div>
                     </div>
                     <div class="col-sm-4">
-                      <a href="./work.php" title="" class="black-image-project-hover">
-                        <img src="./assets/images/work03-hover.jpg" alt="" class="img-responsive">
+                      <a href="./work.php" title="" class=" image-project-hover">
+                        <img src="./assets/siemensnx/blocking.jpg" alt="" class="img-responsive">
                       </a>
                       <div class="card-container card-container-lg">
                         <h4>003/006</h4>
