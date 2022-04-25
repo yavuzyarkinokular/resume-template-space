@@ -37,9 +37,9 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav ">
-          <li><a href="./index.php" title="">01 : Home</a></li>
-          <li><a href="./works.php" title="">02 : Works</a></li>
-          <li><a href="./about.php" title="">03 : About me</a></li>
+          <li><a href="./index.php" title="">01 : Ana Sayfa</a></li>
+          <li><a href="./about.php" title="">02 : Hakkımda</a></li>
+          <li><a href="./works.php" title="">03 : Portfolyo</a></li>
           <!-- <li><a href="./contact.php" title="">04 : Contact</a></li> -->
           <!-- <li><a href="./components.php" title="">05 : Components</a></li> -->
         </ul>
